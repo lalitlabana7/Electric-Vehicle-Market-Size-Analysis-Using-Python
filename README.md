@@ -16,7 +16,7 @@
 <br>Statement 4:analyzing the popularity of EV manufacturers</br>
 ![Image](analyzing the popularity of EV manufacturers.png)
 <br>Statement 5:Top Models in Top 3 Makes by EV Registrations</br>
-![Image](Top Models in Top 3 Makes by EV Registrations.png)
+![Image](Top_Models_in Top_3 Makes_by_EV Registrations.png)
 <br>Statement 6:Distribution of Electric Vehicle Ranges</br>
 ![Image](Distribution of Electric Vehicle Ranges.png)
 <br>Statement 7:Average Electric Range by Model Year</br>
